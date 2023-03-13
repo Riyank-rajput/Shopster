@@ -6,13 +6,37 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 header {
   background-color: #404040;
   padding: 1rem;
 }
+
 header a {
   color: #ffffff;
   font-weight: bold;
   text-decoration: none;
+}
+
+/* By using flex we can put items next to each other
+   To add space btw items,use flex-wrap and if there is no space in a row,
+   new items will be pushed down to a new line*/
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.product {
+  border: 1px #404040 solid;
+  margin: 1rem;
+}
+.product img {
+  width: 100%;
+  max-width: 310px;
+}
+.main {
+  padding: 1rem;
+}
+.product-info {
+  padding: 1rem;
 }
