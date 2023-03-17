@@ -23,7 +23,7 @@ const data = {
       countInStock: 12,
       brand: 'Roadster',
       rating: 4.5,
-      numReviews: 10,
+      numReviews: 50,
       description:
         'Blue denim washed casual shirt, has a spread collar, a full button placket, long sleeves with roll-up tabs, chest pocket, curved hem',
     },

@@ -12,6 +12,10 @@ body {
 main {
   flex: 1;
 }
+.btn-primary {
+  background-color: #f0c040;
+  color: #000000;
+}
 
 /* By using flex we can put items next to each other
    To add space btw items,use flex-wrap and if there is no space in a row,
@@ -21,6 +25,9 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+.rating span {
+  color: #ffc000;
 }
 .product {
   border: 1px #404040 solid;
