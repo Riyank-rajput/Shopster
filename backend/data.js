@@ -20,7 +20,7 @@ const data = {
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 799,
-      countInStock: 12,
+      countInStock: 0,
       brand: 'Roadster',
       rating: 4.5,
       numReviews: 50,
