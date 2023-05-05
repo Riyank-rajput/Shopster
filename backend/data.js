@@ -2,7 +2,7 @@
 const data = {
   products: [
     {
-      _id: '1',
+      //_id: '1',
       name: 'Roadster Men Blue Printed Casual Shirt',
       slug: 'roadster-blue-shirt',
       category: 'Shirts',
@@ -16,7 +16,7 @@ const data = {
         'Blue printed casual shirt, has a mandarin collar collar, button placket, long sleeves, curved hem',
     },
     {
-      _id: '2',
+      //_id: '2',
       name: 'Roadster Men Blue Slim Denim Shirt',
       slug: 'roadster-slim-shirt',
       category: 'Shirts',
@@ -30,7 +30,7 @@ const data = {
         'Blue denim washed casual shirt, has a spread collar, a full button placket, long sleeves with roll-up tabs, chest pocket, curved hem',
     },
     {
-      _id: '3',
+      //_id: '3',
       name: 'Nike Printed Running Black Pants',
       slug: 'nike-running-pants',
       category: 'Pants',
@@ -44,7 +44,7 @@ const data = {
         'The Nike Dri-FIT Challenger Pants have details like sweat-wicking technology',
     },
     {
-      _id: '4',
+      //_id: '4',
       name: 'Nike Running Dryfit Black T-Shirt',
       slug: 'nike-running-t-shirt',
       category: 'TShirts',
