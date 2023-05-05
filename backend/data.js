@@ -28,7 +28,7 @@ const data = {
         'Blue denim washed casual shirt, has a spread collar, a full button placket, long sleeves with roll-up tabs, chest pocket, curved hem',
     },
     {
-      name: 'Nike Printed Running Pants',
+      name: 'Nike Printed Running Black Pants',
       slug: 'nike-running-pants',
       category: 'Pants',
       image: '/images/p3.jpg',
@@ -41,7 +41,7 @@ const data = {
         'The Nike Dri-FIT Challenger Pants have details like sweat-wicking technology',
     },
     {
-      name: 'Nike Running Dryfit T-Shirt',
+      name: 'Nike Running Dryfit Black T-Shirt',
       slug: 'nike-running-t-shirt',
       category: 'TShirts',
       image: '/images/p4.jpg',
